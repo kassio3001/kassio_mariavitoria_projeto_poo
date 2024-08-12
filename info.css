@@ -1,0 +1,20 @@
+body {
+    background-image: url(https://img.freepik.com/fotos-premium/fundo-de-pasteis-rosa-suave-conceito-de-tema-de-dia-dos-namorados-de-aniversario-de-casamento_158001-2726.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+div {
+    color: black;
+    margin: auto;
+    width: 50%;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(246, 131, 250);
+    border-radius: 10px;
+    
+}
+
+h4 {
+    font-family: 'Courier New', Courier, monospace;
+}
